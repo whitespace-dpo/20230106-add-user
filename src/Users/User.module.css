@@ -1,0 +1,8 @@
+.user{
+    font-size: 1.01rem;
+    font-weight: 600;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

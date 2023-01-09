@@ -1,0 +1,16 @@
+.add-user label, .add-user input{
+    display: block;
+}
+.add-user label{
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 1% 0;
+}
+.add-user input{
+    width: 97%;
+    padding: 0.5% 1.5%;
+    margin: 1% 0;
+}
+.add-user button{
+    margin-top: 1%;
+}
